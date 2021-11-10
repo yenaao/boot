@@ -1,0 +1,1363 @@
+
+/* 반응형 */
+@media screen and (max-width: 1888px){
+}
+@media screen and (max-width: 1884px){
+    header .main_title_left{
+        top: calc(50% - 305px);
+        left: calc(50% - 700px);
+    }
+    #about .bar_85{
+      width: 85% !important;
+    }
+    #about .bar_65{
+      width: 65% !important;
+    }
+    #about .bar_90{
+      width: 90% !important;
+    }
+    #about .bar_60{
+      width: 60% !important;
+  }
+}
+@media screen and (max-width: 1880px){
+    .website .row{
+        width: 490px;
+        height: 246px;
+    }
+    .portfolio-website .project-details{
+        padding-top: 35px;
+    }
+    .website .item .project-details .project-text{
+        margin-top: 0;
+    }
+}
+@media screen and (max-width: 1804px){
+    .website .row{
+        width: 480px;
+        height: 236px;
+    }
+    .website .btn{
+        margin: 3% 0 0 3.5%;
+        padding: 3% 11.5%;
+    }
+}
+
+@media screen and (max-width: 1769px){
+    .website .row {
+        width: 475px;
+        height: 235px;
+    }
+    .website .btn{
+        margin: 3% 0 0 2.5%;
+        padding: 3% 11.5%;
+    }
+}
+
+@media screen and (max-width: 1736px){
+    .website .row{
+        width: 470px;
+        height: 232px;
+    }
+    .website .btn{
+        margin: 3% 0 0 4.5%;
+        padding: 3% 10.5%;
+    }
+}
+@media screen and (max-width: 1705px){
+    .website .row{
+        width: 460px;
+        height: 228px;
+    }
+    .website .btn{
+        margin: 3% 0 0 3.5%;
+    }
+}
+@media screen and (max-width: 1676px){
+    .website .row{
+        width: 450px;
+        height: 222px;
+    }
+    .website .btn{
+        margin: 3% 0 0 3.5%;
+        padding: 3% 10%;
+    }
+    .portfolio-website .item .project-details .project-name{
+        font-size: 2.5rem;
+    }
+    .portfolio-website .project-details{
+        padding-top: 20px;
+    }
+}
+@media screen and (max-width: 1621px){
+    .website .row{
+        width: 435px;
+        height: 215px;
+    }
+    .website .btn{
+        margin: 3% 0 0 3.5%;
+    }
+}
+@media screen and (max-width: 1593px){
+    .website .row{
+        width: 430px;
+        height: 212px;
+    }
+    .website .btn{
+        margin: 3% 0 0 3%;
+        padding: 3% 10%;
+    }
+    .portfolio-website .project-details{
+        padding-top: 15px;
+    }
+    .portfolio-website .item .project-details .project-name{
+        font-size: 2.1rem;
+        line-height: 12px;
+    }
+    .website .item .project-details .project-text{
+        line-height: 25px;
+    }
+}
+@media screen and (max-width: 1568px){
+    .website .row{
+        width: 425px;
+        height: 207px;
+    }
+    .website .btn{
+        margin: 3% 0 0 4.5%;
+        padding: 3% 9%;
+    }
+}
+@media screen and (max-width: 1543px){
+    .website .row{
+        width: 415px;
+    }
+    .website .btn{
+        margin: 4% 0 0 4%;
+        padding: 3% 8.5%;
+    }
+}
+@media screen and (max-width: 1475px){
+    .website .row{
+        width: 390px;
+        height: 195px;
+    }
+    .website .btn{
+        margin: 4% 0 0 3%;
+    }
+    .website .item .project-details .project-text{
+        line-height: 20px;
+        font-size: 17px;
+    }
+}
+@media screen and (max-width: 1454px){
+    .website .row{
+        width: 385px;
+        height: 190px;
+    }
+}
+@media screen and (max-width: 1433px){
+    .website .row{
+        width: 380px;
+        height: 190px;
+    }
+    .website .btn{
+        margin: 4% 0 0 2.5%;
+    }
+}
+@media screen and (max-width: 1413px){
+    .website .row {
+        width: 370px;
+        height: 185px;
+    }
+    .website .btn{
+        margin: 4% 0 0 2%;
+    }
+    #about .bar_85{
+      width: 85% !important;
+    }
+    #about .bar_65{
+      width: 65% !important;
+    }
+    #about .bar_90{
+      width: 90% !important;
+    }
+    #about .bar_60{
+      width: 60% !important;
+  }
+}
+@media screen and (max-width: 1394px){
+    .website .row {
+        width: 365px;
+        height: 182px;
+    }
+    .website .btn{
+        margin: 4% 0 0 1.5%;
+    }
+    .website .item .project-details .project-text{
+        line-height: 17px;
+    }
+    #about .bar_85{
+      width: 85% !important;
+    }
+    #about .bar_65{
+      width: 65% !important;
+    }
+    #about .bar_90{
+      width: 90% !important;
+    }
+    #about .bar_60{
+      width: 60% !important;
+  }
+}
+
+@media screen and (max-width: 1375px){
+    .website .row{
+        width: 355px;
+        height: 178px;
+    }
+    .website .btn{
+        margin: 4% 0 0 1.5%;
+        padding: 3% 8%;
+    }
+    .portfolio-website .item .project-details .project-name{
+        font-size: 2rem;
+    }
+    .website .item .project-details .project-text{
+        line-height: 16.5px;
+        font-size: 16.5px;
+    }
+    #about .bar_85{
+      width: 85% !important;
+    }
+    #about .bar_65{
+      width: 65% !important;
+    }
+    #about .bar_90{
+      width: 90% !important;
+    }
+    #about .bar_60{
+      width: 60% !important;
+  }
+}
+@media screen and (max-width: 1340px){
+    .website .row{
+        width: 350px;
+        height: 176px;
+    }
+    .website .btn{
+        margin: 4% 0 0 1%;
+        padding: 3% 8%;
+    }
+    .portfolio-website .item .project-details .project-name{
+        font-size: 2rem;
+    }
+    .website .item .project-details .project-text{
+        line-height: 16.5px;
+        font-size: 16.5px;
+    }
+    #about .bar_85{
+      width: 85% !important;
+    }
+    #about .bar_65{
+      width: 65% !important;
+    }
+    #about .bar_90{
+      width: 90% !important;
+    }
+    #about .bar_60{
+      width: 60% !important;
+  }
+}
+
+@media screen and (max-width: 1323px){
+    .website .btn{
+        margin: 4% 0 0 1.5%;
+        padding: 3% 7.5%;
+    }
+    .portfolio-website .project-details{
+        padding-top: 13px;
+    }
+    .project-description{
+        font-size: 1.08em;
+    }
+    .website .item .project-details .project-text{
+        line-height: 16px;
+        font-size: 16px;
+    }
+    #about .bar_85{
+      width: 85% !important;
+    }
+    #about .bar_65{
+      width: 65% !important;
+    }
+    #about .bar_90{
+      width: 90% !important;
+    }
+    #about .bar_60{
+      width: 60% !important;
+  }
+}
+@media screen and (max-width: 1306px){
+    .website .row {
+        width: 335px;
+        height: 168px;
+    }
+    .website .btn{
+        padding: 3% 7%;
+    }
+    .website .item .project-details .project-text{
+        margin-bottom: 5px;
+        font-size: 15px;
+    }
+    #about .bar_85{
+      width: 85% !important;
+    }
+    #about .bar_65{
+      width: 65% !important;
+    }
+    #about .bar_90{
+      width: 90% !important;
+    }
+    #about .bar_60{
+      width: 60% !important;
+  }
+}
+@media screen and (max-width: 1280px){
+    hr{
+        max-width: 190px;
+        margin: 15px auto;
+    }
+    h1{
+        font-size: 45px;
+    }
+    h2{
+        font-size: 40px;
+    }
+    section{
+        padding: 70px 0;
+    }
+    header .main_title_left{
+        top: calc(50% - 245px);
+        left: calc(50% - 575px);
+    }
+    header .main_title_right{
+        bottom: calc(50% - 50px);
+        right: calc(50% - 530px);
+    }
+    header .main_title_right02 {
+      bottom: calc(50% - 215px);
+      right: calc(50% - 500px);
+    }
+    header .main_title_right03{
+        bottom: calc(50% - 400px);
+        right: calc(50% - 500px);;
+    }
+    #about{
+        padding: 50px 0;
+    }
+    #about .about_content{
+        margin: 0 0 0 5%;
+    }
+    #about .profile_imgBox{
+        margin-left: 0;
+        margin-top: 100px;
+    }
+    #about .profile_imgBox > img{
+        width: 300px;
+    }
+    #about .profile_imgBox > .circle01{
+        width: 300px;
+        height: 220px;
+        transform: rotate(22deg);
+    }
+    #about .profile_imgBox > .circle02{
+        width: 280px;
+        height: 150px;
+        top: 111%;
+        left: 3%;
+        transform: rotate(-25deg);
+    }
+    #about .profile_text{
+        margin: 10% 0 0 4%;
+    }
+    #about .profile_text li h3{
+        font-size: 22px;
+    }
+    #about .profile_text li:nth-child(2), #about .profile_text li:nth-child(3){
+        margin-top: 30%;
+    }
+    #about .profile_text li:first-child p{
+        font-size: 20px;
+    }
+    #about .profile_text li:first-child span{
+        font-size: 25px;
+    }
+    #about .about_icon{
+        width: calc(50% - 7px);
+    }
+    #about .about_icon li{
+        width: calc(30% - 80px);
+    }
+    #about .about_icon li img{
+        width: 85px;
+        margin-left: 0;
+    }
+    #about .about_icon li h3{
+        font-size: 20px;
+        text-align: center;
+        line-height: 1.2;
+        margin-left: 0;
+    }
+    #about .about_icon li p{
+        text-align: center;
+        margin-right: 0;
+        padding-bottom: 0px;
+        font-size: 16px;
+    }
+    #about .about_icon li:nth-child(5) h3{
+        margin-left: 0;
+    }
+    #about .about_icon li:nth-child(5) p{
+        margin-right: 0;
+    }
+    .about_wrap span{
+        width: 82%;
+    }
+    #about .skillBox{
+        width: 500px;
+        float: left;
+        margin-left: 35px;
+    }
+    #about .skillBox h3{
+        text-align: center;
+        line-height: 1;
+        margin-right: 50px;
+    }
+    #about .bar_85{
+      width: 85% !important;
+    }
+    #about .bar_65{
+      width: 65% !important;
+    }
+    #about .bar_90{
+      width: 90% !important;
+    }
+    #about .bar_60{
+      width: 60% !important;
+  }
+    #about .skillBox p{
+        width: 80px;
+        margin-right: 0;
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+    #about .skillBar{
+        width: 445px;
+        height: 25px;
+    }
+    #portfolio{
+        padding: 60px 0 0;
+    }
+    .project-num{
+        font-size: 1.4em;
+    }
+    .portfolio-carousel .item .project-details .project-description{
+        font-size: 17px;
+        line-height: 10px;
+    }
+    .portfolio-carousel .item .project-details .project-name{
+        font-size: 35px;
+    }
+    .project-text{
+        line-height: 1.2;
+        font-size: 17px;
+    }
+    .portfolio-carousel .item .btn{
+        margin-top: 1%;
+        font-size: 1.3rem;
+        padding: 1.5% 3%;
+    }
+}
+/********1280********/
+@media screen and (max-width: 1279px){
+    hr{
+        max-width: 190px;
+        margin: 15px auto;
+    }
+    h1{
+        font-size: 45px;
+    }
+    h2{
+        font-size: 40px;
+    }
+    section{
+        padding: 70px 0;
+    }
+    header .main_title_left{
+        top: calc(50% - 245px);
+        left: calc(50% - 575px);
+    }
+    header .main_title_right{
+        bottom: calc(50% - 50px);
+        right: calc(50% - 530px);
+    }
+    header .main_title_right02{
+      bottom: calc(50% - 220px);
+      right: calc(50% - 500px);
+  }
+    header .main_title_right03{
+        bottom: calc(50% - 400px);
+        right: calc(50% - 500px);;
+    }
+    #about{
+        padding: 50px 0;
+    }
+    #about .about_content{
+        margin: 0 0 0 5%;
+    }
+    #about .profile_imgBox{
+        margin-left: 0;
+        margin-top: 100px;
+    }
+    #about .profile_imgBox > img{
+        width: 300px;
+    }
+    #about .profile_imgBox > .circle01{
+        width: 300px;
+        height: 220px;
+        transform: rotate(22deg);
+    }
+    #about .profile_imgBox > .circle02{
+        width: 280px;
+        height: 150px;
+        top: 111%;
+        left: 3%;
+        transform: rotate(-25deg);
+    }
+    #about .profile_text{
+        margin: 10% 0 0 4%;
+    }
+    #about .profile_text li h3{
+        font-size: 22px;
+    }
+    #about .profile_text li:nth-child(2), #about .profile_text li:nth-child(3){
+        margin-top: 30%;
+    }
+    #about .profile_text li:first-child p{
+        font-size: 20px;
+    }
+    #about .profile_text li:first-child span{
+        font-size: 25px;
+    }
+    #about .about_icon{
+        width: calc(50% - 7px);
+    }
+    #about .about_icon li{
+        width: calc(30% - 80px);
+    }
+    #about .about_icon li img{
+        width: 85px;
+        margin-left: 0;
+    }
+    #about .about_icon li h3{
+        font-size: 20px;
+        text-align: center;
+        line-height: 1.2;
+        margin-left: 0;
+    }
+    #about .about_icon li p{
+        text-align: center;
+        margin-right: 0;
+        padding-bottom: 0px;
+        font-size: 16px;
+    }
+    #about .about_icon li:nth-child(5) h3{
+        margin-left: 0;
+    }
+    #about .about_icon li:nth-child(5) p{
+        margin-right: 0;
+    }
+    .about_wrap span{
+        width: 82%;
+    }
+    #about .skillBox{
+        width: 500px;
+        float: left;
+        margin-left: 35px;
+    }
+    #about .skillBox h3{
+        text-align: center;
+        line-height: 1;
+        margin-right: 50px;
+    }
+    #about .skillBox p{
+        width: 80px;
+        margin-right: 0;
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+    #about .skillBar{
+        width: 445px;
+        height: 25px;
+    }
+    #about .bar_85{
+      width: 85% !important;
+    }
+    #about .bar_65{
+      width: 65% !important;
+    }
+    #about .bar_90{
+      width: 90% !important;
+    }
+    #about .bar_60{
+      width: 60% !important;
+  }
+    #portfolio{
+        padding: 60px 0 0;
+    }
+    .project-num{
+        font-size: 1.4em;
+    }
+    .portfolio-carousel .item .project-details .project-description{
+        font-size: 17px;
+        line-height: 10px;
+    }
+    .portfolio-carousel .item .project-details .project-name{
+        font-size: 35px;
+    }
+    .project-text{
+        line-height: 1.2;
+        font-size: 17px;
+    }
+    .portfolio-carousel .item .btn{
+        margin-top: 1%;
+        font-size: 1.3rem;
+        padding: 1.5% 3%;
+    }
+}
+@media screen and (max-width: 1274px){
+    .website .row {
+        width: 330px;
+        height: 166px;
+    }
+    .website .btn{
+        margin: 4% 0 0 2%;
+        padding: 3% 6.5%;
+    }
+}
+@media screen and (max-width: 1260px){
+    .website .row {
+        width: 315px;
+        height: 158px;
+    }
+    .website .btn{
+        margin: 4% 0 0 2.5%;
+        padding: 3% 6%;
+    }
+    .portfolio-website .item .project-details .project-name{
+        font-size: 1.7rem;
+    }
+    .portfolio-website .project-details{
+        padding-top: 7px;
+    }
+    .website .item .project-details .project-text{
+        line-height: 16px;
+        margin-bottom: 4px;
+        font-size: 14px;
+    }
+    .website .btn{
+        font-size: 1.45rem;
+    }
+}
+@media screen and (max-width : 1200px){
+    .os_mac.root_daum_roughmap{
+        width: 550px !important;
+    }
+    .contact_address{
+        right: 5.5%;
+    }
+    .contact_address li{
+        margin: 7% 0;
+    }
+    .contact_address li a {
+        font-size: 1.25em;
+    }
+}
+@media screen and (max-width : 1186px){
+    .portfolio-website .project-details{
+        padding-top: 10px;
+    }
+    .website_text{
+        padding: 20px;
+    }
+    .website .row{
+        width: 295px;
+        height: 148px;
+    }
+    .website .btn{
+        margin: 4% 0 0 2%;
+        padding: 3% 5.5%;
+    }
+}
+@media screen and (max-width : 1146px){
+    .website_text{
+        padding: 15px;
+    }
+    .website .row{
+        width: 285px;
+        height: 143px;
+    }
+    .website .btn{
+        font-size: 1.4rem;
+    }
+}
+@media screen and (max-width : 1118px){
+    .website .row{
+        width: 285px;
+        height: 143px;
+    }
+    .website .btn{
+        padding: 3% 5%;
+    }
+}
+@media screen and (max-width : 1094px){
+    .website .row{
+        width: 270px;
+        height: 135px;
+    }
+    .website .btn{
+        margin: 4% 0 0 2%;
+        padding: 3% 4%;
+        font-size: 1.39rem;
+    }
+    .website_text{
+        padding: 12px;
+    }
+    .portfolio-website .project-details{
+        padding-top: 10px;
+    }
+    .portfolio-website .item .project-details .project-name{
+        font-size: 1.6rem;
+    }
+    .project-description{
+        font-size: 1em;
+        line-height: 1.2;
+    }
+    .website .item .project-details .project-text{
+        font-size: 13px;
+    }
+}
+@media screen and (max-width : 1045px){
+    .website .row{
+        width: 255px;
+        height: 128px;
+    }
+    .portfolio-website .project-details{
+        padding-top: 9px;
+    }
+    .portfolio-website .item .project-details .project-name{
+        font-size: 1.55rem;
+    }
+    .website .btn{
+        padding: 3% 3.5%;
+        font-size: 1.35rem;
+    }
+}
+
+@media screen and (max-width : 1023px){
+
+    /* /최대 너비 1023 이하/
+    /너비 990 ~ 1023 이하 사실강 990px 잡는 용도/ */
+    /* 중간에 끼어있는 다른 디스플레이 해상도 때문에 한번 더 걸고 감 */
+}
+
+@media screen and (max-width : 1023px){
+    .website .row{
+        width: 245px;
+        height: 123px;
+    }
+    .website_text{
+        padding: 10px;
+    }
+    .project-description{
+        font-size: 0.95em;
+        line-height: 1.1;
+    }
+    .website .btn{
+        font-size: 1.3rem;
+    }
+}
+@media screen and (max-width : 991px){
+    .webBox {
+        display: block !important;
+        width: calc(100%/1.5);
+        margin: 0 auto;
+        padding: 0;
+    }
+    .web_container{
+        margin: 5% auto !important;
+        padding: 0 !important;
+    }
+    .website .row {
+        width: calc(100% - 0px);
+        height: 307px;
+        margin: 0 !important;
+    }
+    .website_text {
+        padding: 30px;
+    }
+    .portfolio-website .project-details{
+        padding-top: 30px;
+    }
+    .portfolio-website .item .project-details .project-name{
+        font-size: 2.7rem;
+        line-height: 1.5;
+    }
+    .project-description{
+        font-size: 1.5em;
+        line-height: 1.5;
+    }
+    .website .item .project-details .project-text{
+        line-height: 1.8;
+        margin-bottom: 15px;
+        font-size: 18.5px;
+    }
+    .website .btn{
+        margin: 5% 0 0 1.5% !important;
+        padding: 2.5% 15%;
+        font-size: 1.7rem;
+    }
+
+    .os_mac.root_daum_roughmap{
+        width: 400px !important;
+    }
+    .contact_address{
+        top: 10.5%;
+        right: -0;
+    }
+    .contact_address li{
+        margin: 5% 0;
+    }
+    .contact_address li a {
+        font-size: 1.2em;
+    }
+}
+
+
+@media screen and (max-width : 989px){
+    /* 여기서부터 떨군다!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+    /*최대 너비 989 이하/
+    /너비 768 ~ 989 이하/
+    /768px 잡는 태블릿 용도/ */
+    header .main_title_left{
+        top: calc(50% - 240px);
+        left: calc(50% - 300px);
+    }
+    header .main_title_left p:nth-child(1){
+        font-size: 35px;
+    }
+    header .main_title_left p:nth-child(2){
+        font-size: 25px;
+    }
+    header .main_title_left p{
+        font-size: 35px;
+    }
+    header .main_title_right{
+        bottom: calc(50% - 65px);
+        right: calc(50% - 330px);
+    }
+    header .main_title_right p{
+        font-size: 35px;
+    }
+    header .main_title_right02{
+        bottom: calc(50% - 200px);
+        right: calc(50% - 265px);
+    }
+    header .main_title_right02 p:first-child{
+        font-size: 17px;
+        line-height: 1.5;
+    }
+    header .main_title_right02 p:last-child{
+        font-size: 15px;
+        line-height: 1.5;
+    }
+    header .main_title_right03{
+        bottom: calc(50% - 400px);
+        right: calc(50% - 268px);
+    }
+    #about .profile_imgBox{
+        margin-left: 0;
+        margin-top: 80px;
+    }
+    #about .profile_text{
+        margin: 15% 0 0 9%;
+    }
+    #about .about_icon li img{
+        width: 100px;
+        margin-left: 10.5px;
+    }
+    #about .about_icon{
+        width: calc(50% - -320px);
+        margin-top: 45px;
+    }
+    #about .about_icon li{
+        width: calc(30% - 80px);
+    }
+    .about_wrap span{
+        width: 92%;
+    }
+    #about .skillBox{
+        width: 600px;
+        margin-left: 65px;
+    }
+    #about .skillBox h3{
+        line-height: 2;
+        margin-right: 65px;
+    }
+    #about .skillBar{
+        width: 540px;
+        height: 30px;
+    }
+    #about .bar_85{
+        width: 85% !important;
+    }
+    #about .bar_65{
+        width: 65% !important;
+    }
+    #about .bar_90{
+        width: 90% !important;
+    }
+    #about .bar_60{
+        width: 60% !important;
+    }
+    #about .skillBox p{
+        width: 104px;
+        margin-right: 0;
+        font-size: 20px;
+        margin-bottom: 0;
+    }
+    .portfolio_01 .item .col-md-5 .project-details{
+        text-align: center;
+    }
+    .website .btn{
+        margin: 20px 0 0 20px !important;
+        padding: 12px 50px;
+    }
+    .website .row{
+        width: calc(100% - 0px);
+        height: 238px;
+        margin: 0;
+    }
+    .pricing-item.featured-first img{
+        width: 75%;
+        max-height: 100%;
+        margin: 20px auto 0;
+    }
+    .pricing-item h3{
+        line-height: 2;
+    }
+    .pricing-item .btn{
+        margin-top: 30px;
+        padding: 15px 30px;
+        font-size: 1.6rem;
+    }
+    .pricing-item .web_tit{
+        line-height: 3;
+    }
+
+}
+@media screen and (max-width : 767px){
+    .os_mac.root_daum_roughmap{
+        width: 350px !important;
+        margin-left: 5%;
+    }
+    .contact_address{
+        top: 8.5%;
+        right: 4%;
+    }
+    .contact_address li{
+        margin: 3% 0;
+    }
+    .contact_address li a {
+        font-size: 1.18em;
+    }
+}
+@media screen and (max-width : 730px){
+    .os_mac.root_daum_roughmap{
+        width: 325px !important;
+    }
+}
+@media screen and (max-width : 710px){
+    .os_mac.root_daum_roughmap{
+        width: 325px !important;
+    }
+    .contact_address{
+        right: 3%;
+    }
+    .contact_address li a {
+        font-size: 1.1em;
+    }
+}
+@media screen and (max-width : 688px){
+    .contact_address{
+        right: 2%;
+    }
+    .contact_address li a {
+        font-size: 1.04em;
+    }
+}
+@media screen and (max-width : 670px){
+    .os_mac.root_daum_roughmap{
+        width: 300px !important;
+    }
+}
+@media screen and (max-width : 644px){
+    .contact_address{
+        right: 0;
+    }
+}
+
+
+@media screen and (max-width : 619px){
+    .os_mac.root_daum_roughmap{
+        width: 280px !important;
+    }
+    .root_daum_roughmap .wrap_map{
+        height: 280px !important;
+    }
+    .contact_address li a {
+        font-size: 1em;
+    }
+    .contact_address > li img{
+        width: 16%;
+    }
+    .contact_address{
+        top: 13.5%;
+        right: 1.5%;
+    }
+    /* 헤더 */
+    header{
+        height: 700px;
+    }
+    header .main_title_left{
+        top: calc(50% - 235px);
+        left: calc(50% - 265px);
+    }
+    header .main_title_right{
+      bottom: 300px;
+      left: 400px;
+      width: 135px;
+    }
+    header .main_title_right02{
+        bottom: calc(50% - 185px);
+        right: calc(50% - 245px);
+    }
+    header .main_title_right03{
+        bottom: calc(50% - 335px);
+        right: calc(50% - 245px);
+    }
+    #btnFix > ul{
+        top: calc(30% - 150px);
+    }
+    #btnFix > ul > li .qrBtn img, #btnFix > ul > li .planBtn img, #btnFix > ul > li .resumeBtn img{
+        width: 75%;
+    }
+    .qr_popup, .plan_popup{
+        width: 125px;
+        height: 125px;
+    }
+    .plan_popup li:first-child{
+        margin-top: 3px;
+    }
+    .plan_popup li a{
+        font-size: 11px;
+        line-height: 1.4;
+        padding: 0 25px;
+    }
+    .resume_popup{
+        width: 155px;
+        height: 40px;
+    }
+    .resume_popup a{
+        font-size: 15px;
+        line-height: 2.7;
+    }
+    #about .profile_imgBox{
+        margin-left: 80px;
+        margin-top: 30px;
+    }
+    #about .profile_imgBox > img{
+        width: 350px;
+    }
+    #about .profile_imgBox > .circle01{
+        width: 360px;
+        height: 235px;
+        transform: rotate(25deg);
+    }
+    #about .profile_imgBox > .circle02{
+        width: 335px;
+        height: 180px;
+        top: 107%;
+        left: 3%;
+        transform: rotate(-24deg);
+    }
+    #about .profile_text{
+        margin: 48% 0 0 27.5%;
+    }
+    #about .about_icon{
+        width: calc(50% - -265px);
+        margin-top: 45px;
+    }
+    #about .about_icon li{
+        width: calc(30% - 60px);
+    }
+    #about .about_icon li img{
+        width: 85px;
+        margin-left: 5.5px;
+    }
+    .about_wrap span{
+        width: 95%;
+    }
+    #about .skillBox{
+        width: 440px;
+        margin-left: 25px;
+    }
+    #about .skillBox h3{
+        line-height: 2;
+        margin-right: 10px;
+    }
+    #about .skillBox p{
+        width: 95px;
+    }
+    #about .skillBar{
+        width: 440px;
+        height: 30px;
+    }
+    .portfolio-website .project-details{
+        padding-top: 5px;
+    }
+    .portfolio-website .item .project-details .project-name{
+        font-size: 2rem;
+        line-height: 1.5;
+    }
+    .project-description{
+        font-size: 1.7rem;
+        line-height: 1.5;
+    }
+    .website .item .project-details .project-text{
+        line-height: 1.5;
+        margin-bottom: 15px;
+        font-size: 18.5px;
+    }
+    .website .btn{
+        margin: 15px 0 0 12px !important;
+        padding: 12px 25px;
+    }
+    .website .row{
+        height: 178px;
+    }
+    .website_text{
+        padding: 15px;
+    }
+    .website .item .project-details .project-text{
+        line-height: 1.1;
+        margin-bottom: 15px;
+        font-size: 16px;
+    }
+    .pricing-item.featured-first{
+        height: 555px;
+    }
+    .portfolio-filter #filters li .filter{
+        padding: 10px 11px;
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (max-width : 600px){
+    .os_mac.root_daum_roughmap{
+        width: 250px !important;
+    }
+    .root_daum_roughmap .wrap_map{
+        height: 250px !important;
+    }
+    .contact_address > li img{
+        width: 15%;
+    }
+    .contact_address{
+        top: 13.5%;
+        right: 1%;
+    }
+}
+@media screen and (max-width : 579px){
+
+    /* /최대 너비 579 이하/
+    /너비 480 ~ 579 이하/
+    /480px 잡는 모바일 용도/ */
+}
+@media screen and (max-width : 566px){
+    .os_mac.root_daum_roughmap{
+        width: 230px !important;
+    }
+    .root_daum_roughmap .wrap_map{
+        height: 230px !important;
+    }
+    .contact_address li a{
+        font-size: 1em;
+        text-indent: 0.5rem;
+    }
+    .contact_address > li img{
+        width: 13%;
+    }
+    .contact_address li{
+        margin: 4% 0;
+    }
+}
+@media screen and (max-width : 530px){
+    .os_mac.root_daum_roughmap{
+        margin-left: 4%;
+    }
+    .contact_address li a{
+        font-size: 0.95em;
+        text-indent: 0;
+    }
+}
+@media screen and (max-width : 512px){
+    .os_mac.root_daum_roughmap{
+        width: 220px !important;
+    }
+    .root_daum_roughmap .wrap_map{
+        height: 225px !important;
+    }
+    .contact_address{
+        right: 0;
+    }
+}
+@media screen and (max-width : 496px){
+    .os_mac.root_daum_roughmap{
+        width: 200px !important;
+    }
+    .root_daum_roughmap .wrap_map{
+        height: 200px !important;
+    }
+    .contact_address{
+        top: 10.5%;
+    }
+    .contact_address li a{
+        font-size: 0.9em;
+    }
+}
+@media screen and (max-width : 479px){
+
+    /* /최대 너비 479 이하/
+    /너비 420 ~ 479 이하/
+    /420px 잡는 모바일 용도/ */
+}
+@media screen and (max-width : 465px){
+    .os_mac.root_daum_roughmap{
+        margin-left: 2%;
+    }
+    .contact_address{
+        top: 13.5%;
+    }
+    .contact_address > li img{
+        width: 12%;
+    }
+    .contact_address li a{
+        font-size: 0.85em;
+    }
+}
+@media screen and (max-width : 435px){
+    #daumRoughmapContainer1633336888955{
+        margin-left: 0;
+    }
+    .contact_address{
+        right: -5%;
+    }
+}
+@media screen and (max-width : 419px){
+    #daumRoughmapContainer1633336888955{
+        width: 190px !important;
+    }
+    .root_daum_roughmap .wrap_map{
+        height: 190px !important;
+    }
+    .contact_address{
+        right: -6%;
+    }
+}
+@media screen and (max-width : 405px){
+    #daumRoughmapContainer1633336888955{
+        width: 180px !important;
+    }
+    .root_daum_roughmap .wrap_map{
+        height: 180px !important;
+    }
+    .contact_address li a{
+        font-size: 0.8em;
+    }
+    footer.footer p {
+        font-size: 1em;
+    }
+}
+@media screen and (max-width : 388px){
+    #daumRoughmapContainer1633336888955{
+        width: 170px !important;
+    }
+    .root_daum_roughmap .wrap_map{
+        height: 170px !important;
+    }
+    .contact_address li a{
+        font-size: 0.75em;
+    }
+}
+@media screen and (max-width : 370px){
+    #daumRoughmapContainer1633336888955{
+        width: 160px !important;
+    }
+    .root_daum_roughmap .wrap_map{
+        height: 160px !important;
+    }
+    .contact_address li a{
+        font-size: 0.72em;
+    }
+}
+@media screen and (max-width : 359px){
+    #daumRoughmapContainer1633336888955{
+        width: 155px !important;
+    }
+    .root_daum_roughmap .wrap_map{
+        height: 155px !important;
+    }
+    .contact_address li a{
+        font-size: 0.65em;
+    }
+    /* /최대 너비 359 이하/
+    /너비 320 ~ 359 이하/
+    /320px 잡는 모바일 용도/ */
+}
+@media screen and (max-width : 339px){
+    .contact_address li a{
+        font-size: 0.6em;
+    }
+    .contact_address{
+        right: -9%;
+    }
+}
+@media screen and (max-width : 319px){
+    .contact_address li a{
+        width: 150px !important;
+    }
+    .root_daum_roughmap .wrap_map{
+        height: 150px !important;
+    }
+    .contact_address{
+        right: -11%;
+    }
+    footer.footer p{
+        font-size: 0.85em;
+    }
+    /* /최대 너비 319 이하/
+    /너비 319 이하/
+    /320이하 없으므로 안전빵 아이폰 SE*/
+}
